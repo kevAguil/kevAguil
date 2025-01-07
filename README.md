@@ -6,12 +6,12 @@
   </a>
   </div>
   <h1>
-  Hi there, I'm @kevAguil
+  Hi there, I'm Kevin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMxZnA2cDFyOXVmdXpwamk1endnN3BrNmwzbWt2d3J1MndvZHUwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMxZnA2cDFyOXVmdXpwamk1endnN3BrNmwzbWt2d3J1MndvZHUwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="250"/>
 </div>
 
 ---
