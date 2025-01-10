@@ -20,7 +20,7 @@
 I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I have prior Software Engineering experience, working with large systems.
 
-- :seedling: I am currently studying Computer Science at a University.  
+- :seedling: I am currently studying Computer Science at a University. I study many concepts of computer science and software engineering. However, I am more focused in working with backend technology. 
 
 - :zap: In my free time, I like to partake in creating small but fun projects that improves my software developing skills.
 
