@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I have prior Software Engineering experience, working with large systems.
+- :telescope: I have prior Software Engineering experience.
 
 - :seedling: I am currently studying Computer Science at a University. I study many concepts of computer science and software engineering. However, I am more focused in working with backend technology. 
 
